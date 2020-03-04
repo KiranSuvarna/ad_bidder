@@ -1,0 +1,3 @@
+aunctioneerhost: "http://localhost:5000"
+aunctioneerpath: "/v1/bidder/register"
+
